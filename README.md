@@ -1,3 +1,6 @@
+> **Repositorio principal de la materia.** Este es el repositorio que se entrega. El análisis del dataset está aquí mismo en [`actividades/analisis-dataset/ANALISIS.md`](actividades/analisis-dataset/ANALISIS.md).
+> El código de la plataforma de entregas está dentro de este repositorio como un submódulo de git (carpeta `proyectoEntregaTopicos`). Para clonar todo junto: `git clone --recurse-submodules https://github.com/Cesaredmyt/Topicos-Selectos-de-Tecnologias-Web-y-Movil.git`
+
 # Instituto Tecnológico de Morelia
 **Examen Diagnóstico - Fundamentos de Ingeniería de Software**  
 **Materia:** Tópicos Selectos de Tecnologías Web y Móvil  
