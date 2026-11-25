@@ -1,5 +1,7 @@
 > **Repositorio del equipo:** [proyectoEntregaTopicos](https://github.com/Cesaredmyt/proyectoEntregaTopicos/tree/main). Ahí está el código de la plataforma de entregas y las actividades del equipo.
 
+> **Última auditoría (Mascotas, Proyecto 1):** 2026-11-24 — `gemma3:4b`, `gemma4:e4b` y `qwen2.5-coder:7b` (Ollama, local) — 2 hallazgos confirmados (permiso de internet del APK y datos del formulario repetidos).
+
 # Instituto Tecnológico de Morelia
 **Examen Diagnóstico - Fundamentos de Ingeniería de Software**  
 **Materia:** Tópicos Selectos de Tecnologías Web y Móvil  
